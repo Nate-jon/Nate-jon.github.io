@@ -10,5 +10,14 @@ body{
 .topnav {
     background-color: blueviolet;
     overflow: hidden;
-    width: 100%;
+    min-height: 25px;
 }
+
+.topnav a {
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    }
